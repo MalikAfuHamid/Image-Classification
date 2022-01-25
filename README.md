@@ -1,1 +1,1 @@
-# Image-Classification
+# Mnist-Image-Classification
